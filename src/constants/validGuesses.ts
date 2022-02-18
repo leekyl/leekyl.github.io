@@ -12990,7 +12990,7 @@ export const VALID_GUESSES = [
  'banks',
  'ramen',
  'china',
- 'doggy',
+ 'doggo',
   'footy',
   'jisoo',
   'queen',
